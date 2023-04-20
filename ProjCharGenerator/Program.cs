@@ -107,8 +107,8 @@ namespace generator
             Console.Write('\n');
             foreach (KeyValuePair<char, int> entry in result)
             {
-                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / 1000.0);
-                sum += (entry.Value / 1000.0);
+                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / (double)len);
+                sum += (entry.Value / (double)len);
             }
             (string, int) answ = (text, (int)sum);
             return answ;
@@ -181,8 +181,8 @@ namespace generator
             Console.Write('\n');
             foreach (KeyValuePair<string, int> entry in result)
             {
-                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / 1000.0);
-                sum += (entry.Value / 1000.0);
+                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / (double)len);
+                sum += (entry.Value / (double)len);
 
             }
             (string, int) answ = (text, (int)sum);
@@ -256,8 +256,8 @@ namespace generator
             Console.Write('\n');
             foreach (KeyValuePair<string, int> entry in result)
             {
-                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / 1000.0);
-                sum += (entry.Value / 1000.0);
+                Console.WriteLine("{0} - {1}", entry.Key, entry.Value / (double)len);
+                sum += (entry.Value / (double)len);
             }
             (string, int) answ = (text, (int)sum);
             return answ;
