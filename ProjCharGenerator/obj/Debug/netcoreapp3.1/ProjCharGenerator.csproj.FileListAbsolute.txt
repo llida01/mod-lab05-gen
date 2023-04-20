@@ -1,0 +1,14 @@
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.exe
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.deps.json
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.runtimeconfig.json
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.runtimeconfig.dev.json
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.dll
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\bin\Debug\netcoreapp3.1\ProjCharGenerator.pdb
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.csproj.AssemblyReference.cache
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.AssemblyInfoInputs.cache
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.AssemblyInfo.cs
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.csproj.CoreCompileInputs.cache
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.dll
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.pdb
+C:\Users\lidia\source\repos\mipis\ProjCharGenerator\ProjCharGenerator\obj\Debug\netcoreapp3.1\ProjCharGenerator.genruntimeconfig.cache
